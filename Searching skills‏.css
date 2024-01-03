@@ -1,6 +1,17 @@
 .white {
-    background-color: beige;
+    background-color: rgb(5, 95, 19);
+    margin: 15px;
+
 }
 .black {
-    background-color: black;
+    background-color: rgb(216, 48, 188);
+    margin: 15px;
+}
+.red{
+    background-color:rgb(255, 113, 160); 
+margin: 25%;
+}
+.sea{
+    background-color: rgb(14, 90, 90);
+margin: 15%;
 }
